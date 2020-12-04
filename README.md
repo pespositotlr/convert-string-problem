@@ -6,6 +6,7 @@ id, name, email, type(id, name, customFields(c1, c2, c3)), externalId)
 
 And result in this output: 
 
+```
 - id
 - name
 - email
@@ -17,9 +18,11 @@ And result in this output:
     - c2
     - c3
 - externalId
+```
 
 And also to this output:
 
+```
 - email
 - externalId
 - id
@@ -31,4 +34,5 @@ And also to this output:
     - c3
   - id
   - name
+  ```
   
