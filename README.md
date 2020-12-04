@@ -2,7 +2,7 @@
 
 A simple test application to create a heirarchical list from a flat string with nested parentheses.
 
-A built, runnable version can be found [here](ConvertStringProgram/bin/Release/netcoreapp3.1/ConvertStringProgram.exe).
+A built, runnable version can be found [here](ConvertStringProgram/bin/Release/netcoreapp3.1/publish/ConvertStringProgram.exe).
 
 The goal is to take this input:
 ```
