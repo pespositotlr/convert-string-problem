@@ -1,0 +1,12 @@
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Debug\netcoreapp3.1\ConvertStringProgram.AssemblyInfoInputs.cache
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Debug\netcoreapp3.1\ConvertStringProgram.AssemblyInfo.cs
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Debug\netcoreapp3.1\ConvertStringProgram.csproj.CoreCompileInputs.cache
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\bin\Debug\netcoreapp3.1\ConvertStringProgram.exe
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\bin\Debug\netcoreapp3.1\ConvertStringProgram.deps.json
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\bin\Debug\netcoreapp3.1\ConvertStringProgram.runtimeconfig.json
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\bin\Debug\netcoreapp3.1\ConvertStringProgram.runtimeconfig.dev.json
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\bin\Debug\netcoreapp3.1\ConvertStringProgram.dll
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\bin\Debug\netcoreapp3.1\ConvertStringProgram.pdb
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Debug\netcoreapp3.1\ConvertStringProgram.dll
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Debug\netcoreapp3.1\ConvertStringProgram.pdb
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Debug\netcoreapp3.1\ConvertStringProgram.genruntimeconfig.cache
