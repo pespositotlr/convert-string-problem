@@ -10,3 +10,4 @@ C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Releas
 C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Release\netcoreapp3.1\ConvertStringProgram.dll
 C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Release\netcoreapp3.1\ConvertStringProgram.pdb
 C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Release\netcoreapp3.1\ConvertStringProgram.genruntimeconfig.cache
+C:\Users\kewl0\source\repos\ConvertStringProgram\ConvertStringProgram\obj\Release\netcoreapp3.1\ConvertStringProgram.csprojAssemblyReference.cache

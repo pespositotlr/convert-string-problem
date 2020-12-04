@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVRyUY+2mBKTWFMumLkBFo3f/dcVsAmhOJIFfzGoFs/IZxbg9ZJN/sqISe3iIRHQ7wBnDHnSuisQZkb8XYOhng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kewl0\\source\\repos\\ConvertStringProgram\\ConvertStringProgram\\ConvertStringProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kewl0\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.9\\microsoft.netcore.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\kewl0\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.9\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.9.nupkg.sha512",
+    "C:\\Users\\kewl0\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.9\\microsoft.aspnetcore.app.runtime.win-x86.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
